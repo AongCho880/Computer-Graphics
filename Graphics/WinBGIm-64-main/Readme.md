@@ -72,7 +72,7 @@ Before starting, ensure the following software is installed:
 5. Wait for **CMake** to configure the project (creates a `build` directory).
 6. Open `test/test.cpp`.
 7. Run the code using the **Run** button in VS Code — a graphics window should appear.
-![Build and Run](./SS/BuildAndRun.PNG)
+   <img src="./SS/BuildAndRun.PNG" alt="Build and Run" width="600"/>
 
 ---
 
@@ -122,7 +122,7 @@ Before starting, ensure the following software is installed:
 
 4. Save the file — CMake will reconfigure automatically.
 5. Build and run `your_code.cpp` using VS Code.
-   ![Build and Run](ss/BuildAndRun.PNG)
+   <img src="./SS/BuildAndRun.PNG" alt="Build and Run" width="600"/>
 
 ---
 
