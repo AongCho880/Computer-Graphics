@@ -2,6 +2,6 @@
 
 > Clone the repository and follow the instructions provided in each setup directory.
 
-    ```bash
-    git clone https://github.com/AongCho880/Computer-Graphics.git
-    ```
+```bash
+git clone https://github.com/AongCho880/Computer-Graphics.git
+```
