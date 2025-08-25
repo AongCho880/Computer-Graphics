@@ -67,13 +67,14 @@ Before starting, ensure the following software is installed:
     - **C/C++** (by Microsoft)
     - **CMake Tools** (by Microsoft)
 
-3. Select the appropriate C compiler when prompted (e.g., GCC from MinGW-w64 or MSYS2).\\
-   ![Choose Compiler](Graphics/WinBGIm-64-main/SS/ChooseCompiler.png)
+3. Select the appropriate C compiler when prompted (e.g., GCC from MinGW-w64 or MSYS2).
+   ![Choose Compiler](/SS/ChooseCompiler.png)
 4. Wait for **CMake** to configure the project (creates a `build` directory).
 5. Open `test/test.cpp`.
 6. Run the code using the **Run** button in VS Code — a graphics window should appear.
-   <img src="./ss/BuildAndRun.PNG" alt="Build and Run" />
-   ![Build and Run](./ss/BuildAndRun.PNG)
+
+
+![Build and Run](./ss/BuildAndRun.PNG)
 
 ---
 
