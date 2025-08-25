@@ -74,7 +74,7 @@ Before starting, ensure the following software is installed:
 6. Run the code using the **Run** button in VS Code — a graphics window should appear.
 
 
-![Build and Run](./ss/BuildAndRun.PNG)
+![Build and Run](./SS/BuildAndRun.PNG)
 
 ---
 
