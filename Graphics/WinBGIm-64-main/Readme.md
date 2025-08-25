@@ -71,7 +71,8 @@ Before starting, ensure the following software is installed:
    ![Choose Compiler](Graphics/WinBGIm-64-main/SS/ChooseCompiler.png)
 4. Wait for **CMake** to configure the project (creates a `build` directory).
 5. Open `test/test.cpp`.
-6. Run the code using the **Run** button in VS Code — a graphics window should appear.\\
+6. Run the code using the **Run** button in VS Code — a graphics window should appear.
+   <img src="./ss/BuildAndRun.PNG" alt="Build and Run" />
    ![Build and Run](./ss/BuildAndRun.PNG)
 
 ---
